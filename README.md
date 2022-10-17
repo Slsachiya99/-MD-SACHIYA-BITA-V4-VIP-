@@ -60,6 +60,9 @@
 * [`❊❊❊❊❊❊`](https://github.com/vihangayt0)
 
 ## *මට මෙ බොට් හදන්න උදවු කරපු හැමොටම Thanks❤️
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12F700&background=3D00FF00&width=435&height=300&lines=%E0%B6%B8%E0%B6%A7+%E0%B6%B6%E0%B7%9C%E0%B6%A7%E0%B7%8A+%E0%B7%84%E0%B6%AF%E0%B6%B1%E0%B7%8A%E0%B6%B1+%E0%B6%8B%E0%B6%AF%E0%B7%80%E0%B7%94+%E0%B6%9A%E0%B6%BB%E0%B6%B4%E0%B7%94+%E0%B7%84%E0%B7%90%E0%B6%B8%E0%B7%9C%E0%B6%A7%E0%B6%B8+%E2%9D%A4%EF%B8%8F;Thanks%E2%9D%A4%EF%B8%8F+%E0%B7%84%E0%B7%9C%E0%B6%AF%E0%B7%99)](https://git.io/typing-svg)
+
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`MR.Nima`](https://github.com/DarkMakerofc)
 * [`EDM-OFFICIAL`](https://github.com/edm-official)
