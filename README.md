@@ -45,9 +45,9 @@
 
  ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
-1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
+2. Click [FORK](https://github.com/Slsachiya99/-MD-SACHIYA-BITA-V4-VIP-/upload/master)
 
 2. After That Upload Session.json File
 
@@ -57,7 +57,7 @@
 
 
 ## Owner:
-* [`❊❊❊❊❊❊`](https://github.com/vihangayt0)
+* [`❊❊❊❊❊❊`](www.wa.com.0767233346)
 
 ## *මට මෙ බොට් හදන්න උදවු කරපු හැමොටම Thanks❤️
 
