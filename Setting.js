@@ -104,9 +104,9 @@ global.location = "Srl Lanka, hambanthota, thissa" //ur location
 
 //bot bomdy
 
-global.owner = ['94714188730'] //ur number 
+global.owner = ['94767233346'] //ur number 
 
-global.ownertag = '94714188730' //ur tag number
+global.ownertag = '94767233346' //ur tag number
 
 global.botname = 'SACHI-MD-WA-BOT' //ur bot name
 
